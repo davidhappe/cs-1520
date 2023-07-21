@@ -1,4 +1,4 @@
 # RoomMatch
 A web application to help match college students to prospective room mates
 
-View it live [here.](https://cs1520-grouph.ue.r.appspot.com/)
+This web app was developed in the Fall 2022 semester of CS 1520 - Programming Languages for Web Applications at the University of Pittsburgh. It is no longer live.
